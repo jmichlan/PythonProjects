@@ -1,0 +1,15 @@
+####Django###
+#Portfolio Project#
+portfolio-project/*.log
+portfolio-project/*.pot
+portfolio-project/*.pyc
+/portfolio-project/blog/__pycache__/
+/portfolio-project/jobs/__pycache__/
+/portfolio-project/jobs/migrations/__pycache__/
+/portfolio-project/blog/migrations/__pycache__/
+/portfolio-project/portfolio/__pycache__/
+portfolio-project/local_settings.py
+portfolio-project/db.sqlite3
+portfolio-project/media
+portfolio-project/static
+/myvenv
